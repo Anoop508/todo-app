@@ -1,0 +1,18 @@
+.input-task {
+    padding: 10px;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-inline: 5% ;
+    width: 80%;
+    margin-block: 20px;
+    font-size: large;
+    font-weight: 400;
+}
+
+.btn {
+    padding: 10px;
+    border: 3px solid black;
+    border-radius:  10px;
+    font-size: medium;
+    font-weight: 600;
+}

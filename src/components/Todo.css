@@ -1,0 +1,27 @@
+.todo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-inline: 20px;
+    background-color:antiquewhite;
+    border: 2px solid black;
+    padding-inline: 20px;
+    margin-block: 20px  ;
+}
+
+.edit-icon {
+    padding: 10px;
+    background-color: rgb(197, 97, 97);
+    margin-inline: 2px;
+    border: 1px solid white;
+    color: aliceblue;
+}
+
+.delete-icon {
+    padding: 10px;
+    background-color: rgb(197, 97, 97);
+    margin-inline: 2px;
+    border: 1px solid white;
+    color: aliceblue;
+}
+
